@@ -37,7 +37,7 @@ Real is a US-based real estate brokerage (onereal.com
 
 3. Database Schema
 
-  I design four related tables:
+  I designed four related tables:
   
   Agents – stores real estate agents
   
@@ -54,3 +54,37 @@ Real is a US-based real estate brokerage (onereal.com
   Transactions – records all deals
   
   transaction_id (PK), client_id (FK), property_id (FK), agent_id (FK), sale_date, amount
+
+4.  Results Analysis
+
+What happened?
+
+Identified top-performing agents, properties, and regions.
+
+Found peak sales months and most popular property types.
+
+Diagnostic 
+
+Some regions perform better due to higher demand or stronger agent activity.
+
+Monthly income grows during certain seasons (e.g., summer) when property demand rises.
+
+Prescriptive
+
+Reward top agents with incentives.
+
+Focus marketing campaigns in top-performing regions.
+
+Target high-spending clients with premium services.
+
+Plan staffing and mortgage support around peak sales months.
+
+6. References
+
+Oracle PL/SQL Documentation
+
+PostgreSQL Window Functions Docs
+
+W3Schools SQL Tutorial
+
+Real Brokerage website (onereal.com)

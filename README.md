@@ -88,3 +88,5 @@ PostgreSQL Window Functions Docs
 W3Schools SQL Tutorial
 
 Real Brokerage website (onereal.com)
+
+All sources were properly cited. Implementations and analyses represent original work. No AI-generated content was copied without attribution or adaptation.

@@ -1,6 +1,7 @@
 # plsql-window-functions-afanyu-emmanuel
 
 1. Business Context
+   
 Real is a US-based real estate brokerage (onereal.com
 ) that helps clients buy, sell, rent, and finance properties. The company supports both buyers and sellers and also assists clients in obtaining mortgages. With over 2,500 agents and hundreds of monthly clients, Real handles a very large amount of data from agents, clients, properties, and transactions.
 
